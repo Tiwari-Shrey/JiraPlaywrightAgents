@@ -1,0 +1,13 @@
+BODMAS is an acronym used to remember the order of operations in algebra.
+
+- **B**rackets: Simplify expressions inside brackets first.
+- **O**rders: Solve exponents (powers and roots, etc.) next.
+- **D**ivision and **M**ultiplication: Perform from left to right.
+- **A**ddition and **S**ubtraction: Perform last from left to right.
+
+Example:
+For the expression 7 + (6 x 5^2) - 4:
+1. **Brackets**: 6 x 5^2
+2. **Orders**: 6 x 25 = 150
+3. **Multiply/Divide**: (No division, so 6 x 25 = 150 stays)
+4. **Add/Subtract**: 7 + 150 - 4 = 153

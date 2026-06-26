@@ -1,0 +1,37 @@
+Addition is one of the basic arithmetic operations and is essentially the process of finding the total or sum by combining two or more numbers. Here's a clear breakdown of how addition works:
+
+### Basic Concepts of Addition:
+
+1. **Operands**: In addition, the numbers that are being added together are called 'addends.' For example, in the equation 3 + 5, 3 and 5 are the addends.
+
+2. **Sum**: The result of adding two or more addends is called the 'sum.' For example, in 3 + 5 = 8, 8 is the sum of 3 and 5.
+
+3. **Properties of Addition**:
+   - **Commutative Property**: The order in which you add two numbers does not affect the sum. That is, a + b = b + a. For example, 3 + 5 = 5 + 3.
+   - **Associative Property**: The way in which numbers are grouped when adding does not change the sum. That is, (a + b) + c = a + (b + c). For example, (2 + 3) + 4 = 2 + (3 + 4).
+   - **Identity Property**: Adding zero to a number does not change the number. That is, a + 0 = a.
+
+4. **Adding Whole Numbers**: When adding whole numbers, you align them by their rightmost digits and add each column, starting from the right. Carry over any extra value to the next column on the left if necessary.
+   - Example:   
+     \[
+       \begin{array}{c}
+       \phantom{1}37 \\
+     + \phantom{1}48 \\
+       \hline
+         \phantom{1}85 \\
+       \end{array}
+     \]
+
+5. **Adding Decimals**: When adding decimals, make sure the decimal points are aligned and then add just as you do with whole numbers.
+   - Example:
+     \[
+       \begin{array}{c}
+         \phantom{1}7.85 \\
+     + \phantom{1}5.46 \\
+       \hline
+          13.31 \\
+       \end{array}
+     \]
+
+### Follow-up
+Do you have a specific addition problem or exercise that you'd like to go through together? Or is there a particular aspect of addition you need more help with?
